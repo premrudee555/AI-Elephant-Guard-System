@@ -1,10 +1,9 @@
 # 🐘 AI Elephant Guard System (AiEGS)
 
-> 🔔 **Judges & Reviewers**
->  
-> This project is best experienced through the interactive prototype below:
->  
-> 👉 https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?fullscreen=1&preview-route=%2Fwelcome>
+## 🚀 Live Prototype (Figma)
+
+👉 **Open Interactive Prototype**
+🔗 https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?fullscreen=1&preview-route=%2Fwelcome
 
 
 **AI Elephant Guard System (AiEGS)**  
