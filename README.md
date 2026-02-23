@@ -70,6 +70,22 @@ Camera
 
 - 🕒 **Alert History**  
   แสดงประวัติการแจ้งเตือนย้อนหลังในรูปแบบข้อมูลสรุป (สำหรับผู้เข้าสู่ระบบ)
+## 🖼️ Visual Preview (UI Prototype)
+
+Below are selected screens from the AI Elephant Guard System prototype.
+These previews demonstrate the core user experience and safety-focused design.
+
+### 🟢 Home – Safe Area
+![Home Safe Area](assets/home-safe.png)
+
+### 🔴 Home – Risk Area
+![Home Risk Area](assets/home-risk.png)
+
+### 📷 Camera & AI Detection
+![Camera AI](assets/camera-ai.png)
+
+### ⚠️ Safety Alert Screen
+![Safety Alert](assets/safety-alert.png)
 
 ---
 
