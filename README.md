@@ -3,7 +3,7 @@
 ## 🚀 Live Prototype (Figma)
 
 👉 **Open Interactive Prototype**
-[Figma Prototype](https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?t=mnCpil31CpAnbIwe-20&fullscreen=1&preview-route=%2Falerts)
+[🔗 View Figma Prototype](https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?t=mnCpil31CpAnbIwe-20&fullscreen=1&preview-route=%2Falerts)
 
 **AI Elephant Guard System (AiEGS)**  
 คือแอปต้นแบบ (Prototype) สำหรับการแจ้งเตือนความปลอดภัยจากช้างป่า  
