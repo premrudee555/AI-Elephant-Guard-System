@@ -6,6 +6,7 @@
 
 Click the link below to view the full interactive prototype:
 https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?t=mnCpil31CpAnbIwe-20&fullscreen=1&preview-route=%2Falerts
+
 **AI Elephant Guard System (AiEGS)**  
 คือแอปต้นแบบ (Prototype) สำหรับการแจ้งเตือนความปลอดภัยจากช้างป่า  
 ออกแบบเพื่อช่วยลดความเสี่ยงจากความขัดแย้งระหว่างคนกับช้าง  
