@@ -1,7 +1,6 @@
 # 🐘 AI Elephant Guard System (AiEGS)
 
-## 🔗 AI Elephant Guard System – Figma Prototype
-
+🔗 AI Elephant Guard System – Figma Prototype
 Click the link below to view the full interactive prototype:
 https://www.figma.com/make/MesjowQ0Eb6gQNuvXIefsQ/AI-Elephant-Guard-System?t=mnCpil31CpAnbIwe-20&fullscreen=1&preview-route=%2Falerts
 
